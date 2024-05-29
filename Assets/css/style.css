@@ -1,0 +1,40 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #dc7171;
+    overflow: hidden;
+}
+li{
+    float: left;
+}
+li a {
+    padding: 30px;
+    color: #d000ff;
+    display: block;
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+h2{
+    color: blue;
+    text-align: center;
+}
+p{
+    color: black;
+     font-family: "Courier 10 Pitch";
+      font-size: 20px;
+}
+body{
+    background-color: white;
+    background-image: ;
+
+}
+th,td {
+    border: 2px solid #ffae00;
+    padding: 20px;
+    font-family: sans-serif;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
